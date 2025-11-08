@@ -23,15 +23,18 @@ namespace EcommerceApp.Services
 
         public async Task<RegisterResponseDto?> RegisterUserAsync(RegisterUserDto userDto)
         {
-            if (string.IsNullOrWhiteSpace(userDto.Name) ||
-                string.IsNullOrWhiteSpace(userDto.Email) ||
-                string.IsNullOrWhiteSpace(userDto.Password))
-            {
-                throw new ArgumentException("Name, email, and password are required.");
-            }
+           
 
             try
+
             {
+                if (string.IsNullOrWhiteSpace(userDto.Name) ||
+               string.IsNullOrWhiteSpace(userDto.Email) ||
+               string.IsNullOrWhiteSpace(userDto.Password))
+                {
+                    throw new ArgumentException("Name, email, and password are required.");
+                }
+
                 var hashedPassword = BCrypt.Net.BCrypt.HashPassword(userDto.Password);
 
                 var user = new Users

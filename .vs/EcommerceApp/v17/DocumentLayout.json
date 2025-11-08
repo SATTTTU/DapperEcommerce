@@ -1,7 +1,80 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\services\\productcategoriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:services\\productcategoriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\repositories\\interfaces\\icategoriesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:repositories\\interfaces\\icategoriesrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\services\\interfaces\\iproductcategoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:services\\interfaces\\iproductcategoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\repositories\\interfaces\\iauthrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:repositories\\interfaces\\iauthrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\services\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:services\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\dtos\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:dtos\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\repositories\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:repositories\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\repositories\\authrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:repositories\\authrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\repositories\\productrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:repositories\\productrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\controllers\\categoriesmanagementcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:controllers\\categoriesmanagementcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\repositories\\interfaces\\iproductrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:repositories\\interfaces\\iproductrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\dtos\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:dtos\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|c:\\users\\satish\\source\\repos\\ecommerceapp\\controllers\\productsmanagementcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA3BC90-0456-488D-962A-C6998635388D}|EcommerceApp.csproj|solutionrelative:controllers\\productsmanagementcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +82,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategoriesServices.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\ProductCategoriesServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductCategoriesServices.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\ProductCategoriesServices.cs",
+              "RelativeToolTip": "Services\\ProductCategoriesServices.cs",
+              "ViewState": "AgIAAG4AAAAAoZmZmZkZwHEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:46:27.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoriesRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\Interfaces\\ICategoriesRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICategoriesRepositories.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\Interfaces\\ICategoriesRepositories.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICategoriesRepositories.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:44:04.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\Interfaces\\IAuthRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IAuthRepositories.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\Interfaces\\IAuthRepositories.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IAuthRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:31:43.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\AuthServices.cs",
+              "RelativeToolTip": "Services\\AuthServices.cs",
+              "ViewState": "AgIAADYAAAAA5P///38TwD8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:04:31.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductCategoriesService.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\Interfaces\\IProductCategoriesService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProductCategoriesService.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\Interfaces\\IProductCategoriesService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProductCategoriesService.cs",
+              "ViewState": "AgIAAAYAAACgmZmZmZklwAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:45:49.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\ProductServices.cs",
+              "RelativeToolTip": "Services\\ProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:45:24.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\Interfaces\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\Interfaces\\IAuthServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:58:15.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\DTOs\\Categories.cs",
+              "RelativeDocumentMoniker": "DTOs\\Categories.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\DTOs\\Categories.cs",
+              "RelativeToolTip": "DTOs\\Categories.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:42:06.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\CategoriesRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoriesRepository.cs",
+              "ViewState": "AgIAACcAAAAAnJmZmZn5v1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:44:41.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\AuthRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\AuthRepositories.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\AuthRepositories.cs",
+              "RelativeToolTip": "Repositories\\AuthRepositories.cs",
+              "ViewState": "AgIAAAsAAAAAlpmZmZkdwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:48:02.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\ProductRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepositories.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\ProductRepositories.cs",
+              "RelativeToolTip": "Repositories\\ProductRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:44:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Models\\Categories.cs",
+              "RelativeToolTip": "Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:43:18.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:45:08.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\Interfaces\\IProductRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IProductRepositories.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Repositories\\Interfaces\\IProductRepositories.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IProductRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:43:46.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriesManagementControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Controllers\\CategoriesManagementControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesManagementControllers.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Controllers\\CategoriesManagementControllers.cs",
+              "RelativeToolTip": "Controllers\\CategoriesManagementControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:41:28.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:43:07.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\DTOs\\Products.cs",
+              "RelativeDocumentMoniker": "DTOs\\Products.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\DTOs\\Products.cs",
+              "RelativeToolTip": "DTOs\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:42:28.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsManagementControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Controllers\\ProductsManagementControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsManagementControllers.cs",
+              "ToolTip": "C:\\Users\\Satish\\source\\repos\\EcommerceApp\\Controllers\\ProductsManagementControllers.cs",
+              "RelativeToolTip": "Controllers\\ProductsManagementControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:40:47.24Z",
+              "EditorCaption": ""
             }
           ]
         }
